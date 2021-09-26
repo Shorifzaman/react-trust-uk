@@ -1,0 +1,146 @@
+[
+    {
+    
+        "id": 1,
+        "name": "Misba-uz-zaman",
+        "title": "Chaiperson & trustee",
+        "city": "london",
+        "img": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/242708373_4963449203668417_666638635833265136_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=qu6KR9-x3zcAX8TPMrt&_nc_ht=scontent.fdac68-1.fna&oh=efe0a569639b9ce5095230909321273d&oe=617411CE",
+        "mobile": "004478563212",
+        "donate": "7320.53"
+        
+    },
+    {
+    
+        "id": 2,
+        "name": "Muhammed Salah Uddin",
+        "title": "Senior Vice Chaiperson",
+        "city": "Newcastle upon Tyne",
+        "img": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/242526984_4963449250335079_6105691262725403804_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_ohc=TgXn9Uqf2usAX9gfsA1&tn=M1uXh3ye95atVVuY&_nc_ht=scontent.fdac68-1.fna&oh=5f5d6d6a0aced28fa476539080ae5fb1&oe=61735028",
+        "mobile": "0044785252",
+        "donate": "3200"
+        
+    },
+    {
+    
+        "id": 3,
+        "name": "Khaled Ahmed",
+        "title": "Vice Chaiperson",
+        "city": "london",
+        "img": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/242532308_4963449180335086_5749101594543664954_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_ohc=qrqSyNnUcZIAX86pdLT&tn=M1uXh3ye95atVVuY&_nc_ht=scontent.fdac68-1.fna&oh=a7699a17e8c667d1ad2fc4f23d79c1be&oe=61748E4D",
+        "mobile": "00447156212",
+        "donate": "2300.62"
+        
+    },
+    {
+    
+        "id": 4,
+        "name": "Md: Harun Or Roshid",
+        "title": "General Secretary & trustee",
+        "city": "Birmingham",
+        "img": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/242667793_4963449227001748_9009541547007324137_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_ohc=yVGFg_R38j0AX8boGVm&_nc_ht=scontent.fdac68-1.fna&oh=d839bb5dc4a1bf26995f2c5e30c292c9&oe=61743DD5",
+        "mobile": "00447542452",
+        "donate": "5100"
+        
+    },
+    {
+    
+        "id": 5,
+        "name": "Shahin Uddin",
+        "title": "Joint Secretary & trustee",
+        "city": "London",
+        "img": "http://www.sgu.edu/wp-content/uploads/2017/01/Douglas-Freeman.jpg",
+        "mobile": "0044785877212",
+        "donate": "4520"
+        
+    },
+    {
+    
+        "id": 6,
+        "name": "Shamim Uddin(Selim)",
+        "title": "Treasurer & trustee",
+        "city": "London",
+        "img": "https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?b=1&k=20&m=1270067126&s=170667a&w=0&h=rq1zL5aHt9q4DtwW8jp2BrdTSOGKt7dGI8e5jham9R8=",
+        "mobile": "004478642212",
+        "donate": "1820.37"
+        
+    },
+    {
+    
+        "id": 7,
+        "name": "Suleman Hussain",
+        "title": "Assistant Secretary & trustee",
+        "city": "London",
+        "img": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/242523959_4963449120335092_52480401457833006_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=0debeb&_nc_ohc=9T2M0bNbpEEAX_F4dwE&_nc_ht=scontent.fdac68-1.fna&oh=224b77b147741ccbfea378862281cab8&oe=617385AC",
+        "mobile": "004478783212",
+        "donate": "1960.11"
+        
+    },
+    {
+    
+        "id": 8,
+        "name": "Mahbubul Huda Khan",
+        "title": "Organising Secretary & trustee",
+        "city": "London",
+        "img": "https://img.freepik.com/free-photo/mand-holding-cup_1258-340.jpg?size=626&ext=jpg",
+        "mobile": "004478555582",
+        "donate": "4250.80"
+        
+    },
+    {
+    
+        "id": 9,
+        "name": "Nizam Uddin Shahed",
+        "title": "Assistant Organising Secretary",
+        "city": "London",
+        "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "mobile": "00447443332",
+        "donate": "2950"
+        
+    },
+    {
+    
+        "id": 10,
+        "name": "Ruhel Ahmed",
+        "title": "Welfare Secretary ",
+        "city": "Birmingham",
+        "img": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg?size=626&ext=jpg",
+        "mobile": "0044722212",
+        "donate": "3250.05"
+        
+    },
+    {
+    
+        "id": 11,
+        "name": "Shab Uddin Khaled",
+        "title": "Member",
+        "city": "London",
+        "img": "https://cdn.britannica.com/40/144440-050-DA828627/Morgan-Freeman.jpg",
+        "mobile": "004478563212",
+        "donate": "2460.34"
+        
+    },
+    {
+    
+        "id": 12,
+        "name": "Rufon Uddin Juned",
+        "title": "Member",
+        "city": "Newcastle upon Tyne",
+        "img": "https://img.freepik.com/free-photo/front-serious-confident-man-with-clasped-hands_74855-3443.jpg?size=626&ext=jpg",
+        "mobile": "0044755622",
+        "donate": "3405"
+        
+    },
+    {
+    
+        "id": 13,
+        "name": "Shomos Uddin",
+        "title": "Member",
+        "city": "London",
+        "img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?size=626&ext=jpg",
+        "mobile": "004478563212",
+        "donate": "4820.21"
+        
+    }
+    
+]
